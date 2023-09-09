@@ -6,3 +6,6 @@ Además, tiene como objetivo identificar las variables que más influyen en el d
 
 En este trabajo se utiliza el lenguaje de programación Python, en Jupyter Notebooks con las bibliotecas: Pandas, Numpy, Matplotlib y Scikit-learn.
 
+Puedes acceder al proyecto de Jupyter Notebook en el siguiente enlace:
+https://github.com/herimoro01/Modelo_desempeno_academico/blob/main/CEB5-12_%C3%81rboles%20de%20decisi%C3%B3n_Desempe%C3%B1o.ipynb
+
